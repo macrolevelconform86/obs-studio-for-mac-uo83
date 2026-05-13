@@ -1,4 +1,4 @@
-# 
+# Get the ultimate OBS Studio for macOS extension with OBS Studio for macOS top Extension: green-screen-removal & batch-rendering. Featuring green-screen-removal and
 
 
 
